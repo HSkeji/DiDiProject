@@ -14,6 +14,7 @@
 		B8FD94682179BFF500AC5550 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8FD94662179BFF500AC5550 /* LaunchScreen.storyboard */; };
 		B8FD946B2179BFF500AC5550 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B8FD946A2179BFF500AC5550 /* main.m */; };
 		B8FD94732179C20F00AC5550 /* HSPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = B8FD94722179C20F00AC5550 /* HSPerson.m */; };
+		B8FD94762179CB5400AC5550 /* HSStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = B8FD94752179CB5400AC5550 /* HSStudent.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		B8FD946A2179BFF500AC5550 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B8FD94712179C20F00AC5550 /* HSPerson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HSPerson.h; sourceTree = "<group>"; };
 		B8FD94722179C20F00AC5550 /* HSPerson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HSPerson.m; sourceTree = "<group>"; };
+		B8FD94742179CB5400AC5550 /* HSStudent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HSStudent.h; sourceTree = "<group>"; };
+		B8FD94752179CB5400AC5550 /* HSStudent.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HSStudent.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				B8FD946A2179BFF500AC5550 /* main.m */,
 				B8FD94712179C20F00AC5550 /* HSPerson.h */,
 				B8FD94722179C20F00AC5550 /* HSPerson.m */,
+				B8FD94742179CB5400AC5550 /* HSStudent.h */,
+				B8FD94752179CB5400AC5550 /* HSStudent.m */,
 			);
 			path = GitProject;
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 				B8FD946B2179BFF500AC5550 /* main.m in Sources */,
 				B8FD945D2179BFF300AC5550 /* AppDelegate.m in Sources */,
 				B8FD94732179C20F00AC5550 /* HSPerson.m in Sources */,
+				B8FD94762179CB5400AC5550 /* HSStudent.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
